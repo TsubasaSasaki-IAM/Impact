@@ -652,8 +652,13 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 0
+    Analytics: 1
+    Build: 0
+    Collab: 1
+    Game Performance: 0
+    Purchasing: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -666,9 +671,9 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 40bcc760-3612-42e9-bb6e-f8a010681f53
+  cloudProjectId: 58dfbed6-0ecb-4053-8b41-5d180a4f9455
   framebufferDepthMemorylessMode: 0
-  projectName: Impact1 (1)
+  projectName: Impact1
   organizationId: tsubasa_19n1100921
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
